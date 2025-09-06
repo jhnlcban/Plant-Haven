@@ -1,0 +1,170 @@
+[
+    {
+        "reason": "asgagagw3agawgagw",
+        "alternative": "payment",
+        "contact_preference": "both",
+        "date": "2025-06-13 02:24:25",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "manila",
+            "payment": "cod",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Organic Dog Food",
+                    "price": 499,
+                    "quantity": 1
+                }
+            ],
+            "total": 499,
+            "date": "2025-06-13 02:02:05",
+            "status": "processing"
+        }
+    },
+    {
+        "reason": "gagjajgagiaejgaeogage",
+        "alternative": "payment",
+        "contact_preference": "both",
+        "date": "2025-06-13 04:13:10",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "Manila City",
+            "payment": "cod",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Organic Dog Food",
+                    "price": 499,
+                    "image": "product-images\/organic food.jpg",
+                    "quantity": 1
+                }
+            ],
+            "total": 499,
+            "date": "2025-06-13 04:12:33"
+        }
+    },
+    {
+        "reason": "gfagagsgaggasg",
+        "alternative": "payment",
+        "contact_preference": "both",
+        "date": "2025-06-13 04:23:18",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "Manila",
+            "payment": "cod",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Organic Dog Food",
+                    "price": 499,
+                    "image": "product-images\/organic food.jpg",
+                    "quantity": 1
+                }
+            ],
+            "total": 499,
+            "date": "2025-06-13 04:22:59"
+        }
+    },
+    {
+        "reason": "afasfafasfaf",
+        "alternative": "payment",
+        "contact_preference": "email",
+        "date": "2025-06-13 04:28:40",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "ewafaw",
+            "payment": "gcash",
+            "items": [
+                {
+                    "id": 2,
+                    "name": "Interactive Cat Toy",
+                    "price": 299,
+                    "image": "product-images\/Cat toy.jpg",
+                    "quantity": 1
+                }
+            ],
+            "total": 299,
+            "date": "2025-06-13 04:27:01"
+        }
+    },
+    {
+        "reason": "ygsgsgagagagsag",
+        "alternative": "payment",
+        "contact_preference": "email",
+        "date": "2025-06-13 04:29:27",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "yo mama",
+            "payment": "cod",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Organic Dog Food",
+                    "price": 499,
+                    "quantity": 1
+                }
+            ],
+            "total": 499,
+            "date": "2025-06-13 04:29:03"
+        }
+    },
+    {
+        "reason": "Cancel IT palgag",
+        "alternative": "payment",
+        "contact_preference": "phone",
+        "date": "2025-06-13 04:46:39",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "Manila",
+            "payment": "gcash",
+            "items": [
+                {
+                    "id": 2,
+                    "name": "Interactive Cat Toy",
+                    "price": 299,
+                    "image": "product-images\/Cat toy.jpg",
+                    "quantity": 1
+                }
+            ],
+            "total": 299,
+            "date": "2025-06-13 04:46:10",
+            "status": "processing"
+        }
+    },
+    {
+        "reason": "CVgagagggag",
+        "alternative": "payment",
+        "contact_preference": "email",
+        "date": "2025-06-13 04:48:39",
+        "user_email": "jhozvalb@gmail.com",
+        "order_details": {
+            "user": "jhozvalb@gmail.com",
+            "name": "zeer",
+            "address": "adasdas",
+            "payment": "cod",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Organic Dog Food",
+                    "price": 499,
+                    "quantity": 1
+                }
+            ],
+            "total": 499,
+            "date": "2025-06-13 04:48:19",
+            "status": "processing"
+        }
+    }
+]
